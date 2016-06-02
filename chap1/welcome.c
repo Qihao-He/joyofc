@@ -1,5 +1,5 @@
 /*A program that prints a welcoming message*/
 #include <stdio.h>
-main(){
+int main(){
 	printf("Welcome to the Joy of C!\n");
 }
